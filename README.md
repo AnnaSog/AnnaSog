@@ -1,9 +1,9 @@
 
-<div id="header" align="center">
+<div id="header" >
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" >
   <a href="https://www.linkedin.com/in/vartanush-sogbatyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
