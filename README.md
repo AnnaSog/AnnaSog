@@ -15,7 +15,8 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer   с опытом разработки сайтов и веб-приложений. Участвовала в проектах внедрения системы автоматизации ITSM процессов на базе SimpleOne.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer   с опытом разработки сайтов и веб-приложений. Разработала 21 проект на JavaScript и React. 
+Участвовала в проектах внедрения системы автоматизации ITSM процессов на базе SimpleOne.
 
 Мой телеграм [![Telegram Badge](https://img.shields.io/badge/AnnaS0711-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/annaS0711)
 
