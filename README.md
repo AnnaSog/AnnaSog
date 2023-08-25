@@ -15,8 +15,11 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer   с опытом разработки сайтов и веб-приложений. Разработала 21 проект на JavaScript и React. 
-Участвовала в проектах внедрения системы автоматизации ITSM процессов на базе SimpleOne.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer с коммерческим опытом 1,5 года и проектной деятельностью более 2-х лет. Разработала 21 проект на JavaScript и React: landing pages, кроссбраузерная верстка, web-приложения.<br>
+Также имею опыт автоматизации бизнес-процессов. <br>
+Более подробно с проектами можно ознакомиться здесь -  https://annavart.ru/
+
+
 
 Мой телеграм [![Telegram Badge](https://img.shields.io/badge/AnnaS0711-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/annaS0711)
 
