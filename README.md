@@ -9,7 +9,7 @@
   </a>
 <h1>
   Всем привет! <br>
-  Меня зовут Вартануш (Анна).
+  Меня зовут Вартануш (Анна)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
