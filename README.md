@@ -15,9 +15,8 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer с коммерческим опытом 1,5 года и проектной деятельностью более 2-х лет. Разработала 21 проект на JavaScript и React: landing pages, кроссбраузерная верстка, web-приложения.<br>
-Также имею опыт автоматизации бизнес-процессов на ESM-платформе. <br>
-Более подробно с проектами можно ознакомиться здесь -  https://annavart.ru/
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer с коммерческим опытом разработки сайтов, веб-приложения и автоматизации бизнес-процессов на ESM-платформе.<br>
+Портфолио - https://annavart.ru/
 
 
 
