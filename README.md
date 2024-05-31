@@ -15,7 +15,7 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer с коммерческим опытом разработки сайтов, веб-приложений и автоматизации бизнес-процессов на ESM-платформе.<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer с опытом разработки сайтов, веб-приложений и автоматизации бизнес-процессов на ESM-платформе.<br>
 Портфолио - https://annavart.ru/
 
 
